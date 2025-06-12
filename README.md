@@ -30,6 +30,7 @@ Predicting which employees are likely to leave is crucial for organizations, as 
 - Trained multiple supervised learning models (e.g., Logistic Regression, Random Forest, XGBoost) on the fully labeled dataset.
 
 ### 5. Model Selection & Evaluation
+- **Model Selected**- Logistic Regression
 - **Primary Metric:** Recall  
   High recall is prioritized because missing a potential attrition case is costlier than a false positive.
 - Compared models and selected the one with the highest recall on a held-out test set.
